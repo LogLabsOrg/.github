@@ -1,54 +1,66 @@
-# LogLabsOrg
+<h1 align="center">LogLabs</h1>
 
-**Engineering scalable systems.**
+<p align="center">
+  Engineering scalable systems.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-black" />
+  <img src="https://img.shields.io/badge/focus-backend-blue" />
+  <img src="https://img.shields.io/badge/stack-node%20%7C%20infra-lightgrey" />
+</p>
 
 ---
 
-## 🧠 About Us
+## 🧠 About
 
-LogLabs is a software engineering organization focused on building robust, scalable, and efficient systems.
-We specialize in backend architecture, automation, and developer tools.
+LogLabs is a software engineering organization focused on building scalable, efficient, and production-ready systems.
+
+We design infrastructure, backend services, and internal tools with a strong emphasis on performance and simplicity.
 
 ---
 
-## 🚀 What We Do
+## ⚙️ Core Areas
 
-* Backend & API Development
-* CLI Tools & Automation
+* Backend Systems
+* API Architecture
+* CLI Tools
 * Infrastructure & DevOps
-* Internal Developer Tools
 
 ---
 
-## 🏗️ Core Principles
+## 🏗️ Projects
 
-* Simplicity over complexity
-* Performance as a feature
-* Clean and maintainable code
-* Automation first
+| Project       | Description                 |
+| ------------- | --------------------------- |
+| loglabs-api   | Core backend services       |
+| loglabs-cli   | Developer tooling           |
+| loglabs-web   | Interfaces & dashboards     |
+| loglabs-infra | Infrastructure & deployment |
 
 ---
 
-## 📦 Projects
+## 🧩 Philosophy
 
-* `loglabs-api` → Core backend services
-* `loglabs-cli` → Internal tooling
-* `loglabs-web` → Interfaces & dashboards
+* Build simple, scale smart
+* Performance is a feature
+* Automate everything
+* Clean code always
 
 ---
 
 ## 🔐 Security
 
-We follow strict security practices and enforce 2FA across all contributors.
+We enforce strong security practices including mandatory 2FA and controlled access.
 
 ---
 
-## 🤝 Contributing
+## 📡 Status
 
-Internal organization. Contributions are managed by the core team.
+Active development.
 
 ---
 
-## 🌐 Links
-
-Coming soon...
+<p align="center">
+  Built by LogLabs
+</p>
