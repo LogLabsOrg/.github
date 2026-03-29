@@ -1,5 +1,5 @@
-<h1 align="center">LogLabs</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0B&height=200&section=header&text=LogLabs&fontColor=FFFFFF&fontSize=50" alt="banner" />
 <p align="center">
   Engineering scalable systems.
 </p>
